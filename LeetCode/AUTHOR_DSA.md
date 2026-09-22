@@ -280,7 +280,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Palindrome Linked List
 - [x] [Remove Nth Node From End of List](./Java/Medium/19. Remove Nth Node From End of List/)
 - [ ] Delete Node in a Linked List
-- [x] [Delete the Middle Node of a Linked List](./Java/Medium/2095. Delete the Middle Node of a Linked List/)
+- [x] [Delete the Middle Node of a Linked List](./Java/Medium/2216. Delete the Middle Node of a Linked List/)
 - [ ] Remove Duplicates from Sorted List
 - [ ] Remove Linked List Elements
 - [ ] Merge Two Sorted Lists
