@@ -49,7 +49,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Factorial Trailing Zeroes
 - [ ] Nim Game
 - [x] [Fibonacci Number](./Java/Easy/1013. Fibonacci Number/)
-- [x] [N-th Tribonacci Number](./Java/Easy/1137. N-th Tribonacci Number/)
+- [x] [N-th Tribonacci Number](./Java/Easy/1236. N-th Tribonacci Number/)
 - [ ] Clumsy Factorial
 - [ ] Arranging Coins
 
