@@ -1,6 +1,6 @@
 # 📝 322. Coin Change (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/coin-change/?envType=problem-list-v2&envId=dynamic-programming)
+🔗 [Problem Link](https://leetcode.com/problems/coin-change/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 17 ms
+- **Memory:** 47.4 MB
 
 ---
 
