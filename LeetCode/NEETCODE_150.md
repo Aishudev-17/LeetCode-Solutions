@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 9 / 150 (6.0%)
+- **Completed:** 10 / 150 (6.7%)
 
 ---
 
@@ -131,7 +131,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [x] [Longest Palindromic Substring](./Java/Medium/5. Longest Palindromic Substring/)
 - [ ] Palindromic Substrings
 - [ ] Decode Ways
-- [ ] Coin Change
+- [x] [Coin Change](./Java/Medium/322. Coin Change/)
 - [ ] Maximum Product Subarray
 - [ ] Word Break
 - [ ] Longest Increasing Subsequence
