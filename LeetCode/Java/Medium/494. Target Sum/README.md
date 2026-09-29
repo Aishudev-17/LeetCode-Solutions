@@ -1,6 +1,6 @@
 # 📝 494. Target Sum (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/target-sum/?envType=problem-list-v2&envId=dynamic-programming)
+🔗 [Problem Link](https://leetcode.com/problems/target-sum/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Dynamic Programming, Backtracking, Knapsack Problem, 0-1 Knapsack
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 6 ms
+- **Memory:** 45.2 MB
 
 ---
 
