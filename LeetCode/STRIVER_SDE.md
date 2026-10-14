@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 9 / 76 (11.8%)
+- **Completed:** 10 / 76 (13.2%)
 
 ---
 
@@ -58,7 +58,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 ### 📂 Binary Search
 - [ ] Single Element in a Sorted Array
 - [x] [Search in Rotated Sorted Array](./Java/Medium/33. Search in Rotated Sorted Array/)
-- [ ] Median of Two Sorted Arrays
+- [x] [Median of Two Sorted Arrays](./Java/Hard/4. Median of Two Sorted Arrays/)
 - [ ] Kth Element of Two Sorted Arrays
 
 ### 📂 Stack & Queue
